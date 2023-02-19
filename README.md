@@ -1,1 +1,2 @@
-# NLP_projects
+# Named Entity Recognition and Regular Expressions for NLP
+This project used a combination of spaCy's Named Entity Recognition (NER) model and regular expressions to automate the extraction of client names and proposal dates from thousands of service proposals in an accounting firm's proposal archive. This significantly reduced the amount of manual effort required for data cleaning. The extracted information was then saved to an Excel file for future use.
